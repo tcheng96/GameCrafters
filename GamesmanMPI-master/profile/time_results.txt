@@ -1,0 +1,1925 @@
+Beginning testing for test_games/four_to_one.py from 4 to 12, 3 tests each
+
+Testing with 4 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+ImportError: No module named cachetools
+
+real	0m0.361s
+user	0m0.291s
+sys	0m0.195s
+
+Testing with 4 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+ImportError: No module named cachetools
+
+real	0m0.332s
+user	0m0.261s
+sys	0m0.172s
+
+Testing with 4 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+        from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+
+    from cachetools import LRUCache
+ImportError: No module named cachetoolsfrom .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+
+ImportError: No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.328s
+user	0m0.261s
+sys	0m0.173s
+
+Testing with 5 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+      File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetoolsfrom .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.376s
+user	0m0.366s
+sys	0m0.230s
+
+Testing with 5 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.365s
+user	0m0.343s
+sys	0m0.212s
+
+Testing with 5 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.361s
+user	0m0.342s
+sys	0m0.203s
+
+Testing with 6 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from cachetools import LRUCache
+ImportError: ImportError: No module named cachetools
+No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.400s
+user	0m0.460s
+sys	0m0.265s
+
+Testing with 6 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.410s
+user	0m0.461s
+sys	0m0.271s
+
+Testing with 6 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+        from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+
+from cachetools import LRUCache
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.414s
+user	0m0.460s
+sys	0m0.271s
+
+Testing with 7 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+: No module named cachetools
+    from cachetools import LRUCache
+ImportError:     from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from cachetools import LRUCache
+ImportError:   File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+No module named cachetools
+ImportError: No module named cachetools
+
+real	0m0.437s
+user	0m0.577s
+sys	0m0.314s
+
+Testing with 7 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.460s
+user	0m0.582s
+sys	0m0.331s
+
+Testing with 7 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.464s
+user	0m0.574s
+sys	0m0.334s
+
+Testing with 8 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+ImportError: No module named cachetools
+
+real	0m0.532s
+user	0m0.686s
+sys	0m0.450s
+
+Testing with 8 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+No module named cachetools
+ImportError: No module named cachetools
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+ImportError: No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.529s
+user	0m0.674s
+sys	0m0.411s
+
+Testing with 8 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+        from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+ImportError:     from cachetools import LRUCache
+No module named cachetools
+ImportError: No module named cachetools
+from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.525s
+user	0m0.692s
+sys	0m0.384s
+
+Testing with 9 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from .cache_dict import CacheDict
+    from cachetools import LRUCache
+ImportError  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: : No module named cachetools
+No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.567s
+user	0m0.773s
+sys	0m0.443s
+
+Testing with 9 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+No module named cachetools
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.604s
+user	0m0.793s
+sys	0m0.484s
+
+Testing with 9 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:   File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+No module named cachetools
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.593s
+user	0m0.821s
+sys	0m0.448s
+
+Testing with 10 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+No module named cachetools
+ImportError: No module named cachetools
+
+real	0m0.697s
+user	0m1.152s
+sys	0m0.613s
+
+Testing with 10 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+        from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+ImportError: No module named cachetools
+ImportError: No module named cachetools
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.670s
+user	0m0.922s
+sys	0m0.658s
+
+Testing with 10 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+ImportError: No module named cachetools
+ImportError: No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.655s
+user	0m0.880s
+sys	0m0.476s
+
+Testing with 11 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:     from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.777s
+user	0m1.028s
+sys	0m0.802s
+
+Testing with 11 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:     from cachetools import LRUCache
+ImportError: No module named cachetools
+No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.814s
+user	0m1.065s
+sys	0m0.819s
+
+Testing with 11 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+No module named cachetools
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.810s
+user	0m1.123s
+sys	0m0.714s
+
+Testing with 12 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetoolsTraceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+No module named cachetools
+
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.869s
+user	0m1.417s
+sys	0m0.610s
+
+Testing with 12 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from cachetools import LRUCache
+ImportError:     from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.902s
+user	0m1.151s
+sys	0m0.737s
+
+Testing with 12 processes
+---------
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+ImportError: No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+Traceback (most recent call last):
+  File "solver_launcher.py", line 51, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+    from src.process import Process  # NOQA
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/process.py", line 6, in <module>
+        from .cache_dict import CacheDict
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+from .cache_dict import CacheDict
+    from cachetools import LRUCache
+  File "/Users/Tom_Cheng/GameCrafters/GamesmanMPI-master/src/cache_dict.py", line 4, in <module>
+ImportError: No module named cachetools
+    from cachetools import LRUCache
+ImportError: No module named cachetools
+
+real	0m0.845s
+user	0m1.121s
+sys	0m0.823s
+
+Testing with local, non-distributed solver
+---------
+
+real	0m0.073s
+user	0m0.014s
+sys	0m0.012s
