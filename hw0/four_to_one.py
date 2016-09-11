@@ -29,13 +29,10 @@ def gen_moves(pos):
 Solver for 4-to-1 Game
 """
 def solver(pos, gameStates):
-    result 
-
-
+    result
 
 """
-Given a position and whose turn it is, determine whether or not the current player wins/loses
-    turn: is it P1's turn
+Determine winner.
 """
 def traverse_game_tree(pos):
     if primitive(pos) != "U":
