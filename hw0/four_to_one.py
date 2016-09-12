@@ -42,6 +42,6 @@ def traverse_game_tree(pos):
     for move in all_moves:
         after_moves = four.do_moves(move, pos)
         result = traverse_game_tree(after_moves)
-        if result == four.LOSE: # that means the opponent lost after I made this move
+        if result == four.LOSE:
             curr = four.WIN
     return curr
