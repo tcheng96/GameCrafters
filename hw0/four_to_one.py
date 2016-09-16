@@ -22,14 +22,14 @@ Returns a list of all possible moves that can be made
 def gen_moves(pos):
     if pos > 1:
         return [1, 2]
-    else
+    else:
         return [1]
 
 """
 Solver for 4-to-1 Game
 """
 def solver(pos, gameStates):
-    result
+    return result
 
 """
 Determine winner.
@@ -38,10 +38,13 @@ def traverse_game_tree(pos):
     if primitive(pos) != "U":
         return primitive(pos)
     curr = "L"
-    all_moves = four.gen_moves(pos)
+    all_moves = gen_moves(pos)
     for move in all_moves:
-        after_moves = four.do_moves(move, pos)
+        after_moves = do_moves(move, pos)
         result = traverse_game_tree(after_moves)
         if result == "L":
             curr = "W"
     return curr
+
+
+print(traverse_game_tree(12))
